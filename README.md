@@ -21,6 +21,7 @@ Thanks for checking out this front-end coding challenge.
 - Flex for @media
 - Flex in a flex
 - vw, vh and %
+- 
 
 ### What I learned
 
@@ -29,8 +30,9 @@ Thanks for checking out this front-end coding challenge.
 - @media query
 - :hover css
 - background: linear-gradient
+- calc in css for responsive web design
 
 
 ## Acknowledgments
 
-I understand that my code is really messy and there are a lot of improvements needed to be made. I believe this is one of the rewarding challenges I have completed as of today because I used vw, vh and % for measurement units. Understanding how the units should be used. By no means I did it perfectly as I've applied it on padding and border-radius.
+I understand that my code is really messy and there are a lot of improvements needed to be made. My background is not perfect loi

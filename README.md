@@ -35,4 +35,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Acknowledgments
 
-I understand that my code is really messy and there are a lot of improvements needed to be made. My background is not perfect loi
+I understand that my code is really messy and there are a lot of improvements needed to be made. My background is not perfect lol

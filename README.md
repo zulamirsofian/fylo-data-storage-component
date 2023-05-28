@@ -21,7 +21,6 @@ Thanks for checking out this front-end coding challenge.
 - Flex for @media
 - Flex in a flex
 - vw, vh and %
-- 
 
 ### What I learned
 
